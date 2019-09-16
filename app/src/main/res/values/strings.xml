@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MasterCard</string>
+    <string name="take_a_survey">Take a survey</string>
+    <string name="next">Next</string>
+    <string name="very_good">Very Good</string>
+    <string name="average">Average</string>
+    <string name="poor">Poor</string>
+    <string name="good">Good</string>
+</resources>
